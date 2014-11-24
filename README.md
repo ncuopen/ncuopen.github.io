@@ -8,4 +8,4 @@ Tutorial
 * 向本仓库发送pull request。
 
 ##评论
-对教程内容，有疑问或发现问题，可以去发[issue](./issue)提问。
+对教程内容，有疑问或发现问题，可以去发[issue](https://github.com/ncuopen/ncuopen.github.io/issues)提问。
